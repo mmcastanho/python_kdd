@@ -1,0 +1,20 @@
+"Article_ID";"Date";"Title";"Subject";"Topic.Code"
+41246;"1-Jan-96";"Nation's Smaller Jails Struggle To Cope With Surge in Inmates";"Jails overwhelmed with hardened criminals";12;
+41257;"2-Jan-96";"FEDERAL IMPASSE SADDLING STATES WITH INDECISION";"Federal budget impasse affect on states";20;
+41268;"3-Jan-96";"Long, Costly Prelude Does Little To Alter Plot of Presidential Race";"Contenders for 1996 Presedential elections";20;
+41279;"4-Jan-96";"Top Leader of the Bosnian Serbs Now Under Attack From Within";"Bosnian Serb leader criticized from within";19;
+41290;"5-Jan-96";"BATTLE OVER THE BUDGET: THE OVERVIEW; LEADERS IN HOUSE DROP G.O.P. PLAN ON U.S. WORKERS";"Battle over budget: Republican leaders abandon strategy of using closed Government offices";1;
+41302;"7-Jan-96";"South African Democracy Stumbles on Old Rivalry";"political violence in south africa";19;
+41314;"8-Jan-96";"Among Economists, Little Fear on Deficit";"economists not afraid of a deficit";1;
+41333;"10-Jan-96";"BATTLE OVER THE BUDGET: THE OVERVIEW; TALKS ON BUDGET ARE PUT ON HOLD AMID UNCERTAINTY";"budget fight";1;
+41344;"11-Jan-96";"High Court Is Cool To Census Change";"census changes";20;
+41355;"12-Jan-96";"TURMOIL AT BARNEYS: THE DIFFICULTIES; Barneys Is Seeking Bankruptcy, Citing Fight With Partner";"barneys seeks bankruptcy";15;
+41367;"14-Jan-96";"Clinton Visits Bosnia to Thank the G.I.'s";"clinton in bosnia";19;
+41379;"15-Jan-96";"Managed Care Has Trouble Treating AIDS, Patients Say";"AIDS HMOs";3;
+41390;"16-Jan-96";"Russians Pounding Rebels Who Hold 100 Hostages";"russia attacking in chechnya";19;
+41402;"18-Jan-96";"BUDGET STANDOFF DEEPENS AS G.O.P. CALLS OFF TALKS";"budget crisis";1;
+41418;"19-Jan-96";"In Uneasy Time, Saudi Prince Provides a Hope of Stability";"uneasy time in saudi arabia";19;
+41428;"20-Jan-96";"POLITICS: IN THE SOUTH; A Southern Democrat Resists The Lure of Party Switching";"Democrat Representative distances himself from other Democrats";20;
+41439;"21-Jan-96";"With the Greatest of Ease . . .";"space shuttle lands";17;
+41451;"23-Jan-96";"Supreme Court Roundup; Christian Scientists Rebuffed in Ruling By Supreme Court";"Supreme Court refuses to hear appeal by Christian Scientists";2;
+41462;"24-Jan-96";"Newark Airport Is Pressing to Surpass Kennedy";"newark airport is growing";10;
